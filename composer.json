@@ -1,5 +1,5 @@
 {
-    "name": "sentry/sentry-laravel",
+    "name": "macromindonline/sentry-laravel",
     "type": "library",
     "description": "Laravel integration for Sentry (https://sentry.io)",
     "keywords": ["logging", "errors", "laravel", "sentry"],
